@@ -1,0 +1,15 @@
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\obj\Debug\net7.0\SINGLETON-VIkhan.csproj.AssemblyReference.cache
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\obj\Debug\net7.0\SINGLETON-VIkhan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\obj\Debug\net7.0\SINGLETON-VIkhan.AssemblyInfoInputs.cache
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\obj\Debug\net7.0\SINGLETON-VIkhan.AssemblyInfo.cs
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\obj\Debug\net7.0\SINGLETON-VIkhan.csproj.CoreCompileInputs.cache
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\bin\Debug\net7.0\SINGLETON-VIkhan.exe
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\bin\Debug\net7.0\SINGLETON-VIkhan.deps.json
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\bin\Debug\net7.0\SINGLETON-VIkhan.runtimeconfig.json
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\bin\Debug\net7.0\SINGLETON-VIkhan.dll
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\bin\Debug\net7.0\SINGLETON-VIkhan.pdb
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\obj\Debug\net7.0\SINGLETON-VIkhan.dll
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\obj\Debug\net7.0\refint\SINGLETON-VIkhan.dll
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\obj\Debug\net7.0\SINGLETON-VIkhan.pdb
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\obj\Debug\net7.0\SINGLETON-VIkhan.genruntimeconfig.cache
+D:\Kuliah\Daftar Asprak\KPL-2\teskpl-vikhan\SINGLETON-VIkhan\obj\Debug\net7.0\ref\SINGLETON-VIkhan.dll
